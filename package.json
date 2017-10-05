@@ -1,0 +1,22 @@
+{
+  "name": "github-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "animal_fun.js",
+  "scripts": {
+    "start": "nodemon animal_fun.js b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyjira/github-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeyjira/github-scraper/issues"
+  },
+  "homepage": "https://github.com/joeyjira/github-scraper#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
